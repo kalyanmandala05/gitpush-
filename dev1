@@ -1,5 +1,6 @@
 linux
-git
+git-[github]
 aws
-jenkins
+jenkins[pipiline]
 docker
+maven[mvn]
